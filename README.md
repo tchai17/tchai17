@@ -29,7 +29,7 @@ I'm always excited to meet new people and explore collaboration opportunities in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tchai17&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-
+# LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/teemo_17?ext=heatmap)
 ---
 [![](https://visitcount.itsvg.in/api?id=tchai17&icon=9&color=6)](https://visitcount.itsvg.in)
