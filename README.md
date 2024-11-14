@@ -2,6 +2,9 @@
 
 🎯 Backend/Full-stack Software Developer <br> 🌍 Location: Singapore, Singapore <br> 📧 Email: timothychai97@gmail.com <br>
 
+# Color Analysis AI
+Try it out here: https://color-analysis-ai.onrender.com/
+
 # 🚀 About Me:
 I'm a passionate full-stack developer with hands-on experience in building secure and scalable web applications using Java, C#/.NET, ReactJS, and TypeScript. With a strong foundation in backend development, I specialize in RESTful APIs, microservices architecture, and performance optimization.
 <br><br>My journey in software development has equipped me with a diverse skill set that ranges from frontend development with ReactJS, to backend frameworks like Spring Boot and .NET, and also includes database management with MySQL and MongoDB. I'm a strong believer in Test-Driven Development (TDD) and strive to write clean, maintainable code using tools like JUnit and xUnit.
